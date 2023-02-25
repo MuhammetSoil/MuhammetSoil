@@ -11,8 +11,7 @@ Here are some details about me and my profile on GitHub:
 - 💼 I am studying [Birikim Schools](https://birikimokullari.com/)
 - 🫂 I'm the Founder of [msoil](#)
 - ℹ️ My technical skills, work experience, certifications can be found at [eser.ozvataf.com](https://eser.ozvataf.com)
-- ✍️ I'm blogging at [eser.dev](https://eser.dev)
-- 🎬 I'm streaming at [youtube.com/EserOzvataf](https://youtube.com/EserOzvataf)
+- ✍️ I'm blogging at [coming soon](#)
 - 🔭 I’m currently working on [hex](https://github.com/eserozvataf/hex), [hex-service](https://github.com/muhammetsoil), [temporal-parse](https://github.com/muhammetsoil), and [fetchp](https://github.com/muhammetsoil/fetchp).
 - 💬 Ask me about: Software Craftsmanship, DevOps, Full-Stack Development, Web Development, JavaScript, TypeScript,Artificial Intelligence
 
