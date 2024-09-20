@@ -1,12 +1,11 @@
 <h1>👋 Hello, I'm MuhammetSoil.</h1>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Muhammetsoil&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
 <!-- <p align="center">
@@ -33,9 +32,9 @@ Here are some ideas to get you started:
 
 Here are some details about me and my profile on GitHub:
 
-- 💼 I am studying [Birikim Schools](https://birikimokullari.com/)
-- 🫂 I'm the Founder of [msoil](#)
-- ℹ️ My technical skills, work experience, certifications can be found at [eser.ozvataf.com](https://eser.ozvataf.com)
+- 💼 I am studying [İstanbul University](https://birikimokullari.com/)
+- 🫂 I'm the Founder of [Descart.tech](#)
+- ℹ️ My technical skills, work experience, certifications can be found at [descart.blog](#)
 - ✍️ I'm blogging at [coming soon](#)
 - 🔭 I am currently developing myself about mobile applications and website, I am working on a caravan application.(https://github.com/muhammetsoil/fetchp).
 - 💬 Ask me about: Software Craftsmanship, Full-Stack Development, Web Development, JavaScript, TypeScript,Artificial Intelligence
