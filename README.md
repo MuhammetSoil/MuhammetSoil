@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 Here are some details about me and my profile on GitHub:
 
-- 💼 I am studying [İstanbul University](https://birikimokullari.com/)
-- 🫂 I'm the Founder of [Descart.tech](#)
-- ℹ️ My technical skills, work experience, certifications can be found at [descart.blog](#)
+- 💼 I am studying [Istanbul University]((https://www.istanbul.edu.tr/tr/_))
+- 🫂 I'm the Founder of [cyvex.co](cyvex.co)
+- ℹ️ My technical skills, work experience, certifications can be found at [cyvex.co](#)
 - ✍️ I'm blogging at [coming soon](#)
 - 🔭 I am currently developing myself about mobile applications and website, I am working on a caravan application.(https://github.com/muhammetsoil/fetchp).
 - 💬 Ask me about: Software Craftsmanship, Full-Stack Development, Web Development, JavaScript, TypeScript,Artificial Intelligence
