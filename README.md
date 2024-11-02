@@ -37,7 +37,7 @@ Here are some details about me and my profile on GitHub:
 - ℹ️ My technical skills, work experience, certifications can be found at [cyvex.co](#)
 - ✍️ I'm blogging at [coming soon](#)
 - 🔭 I am currently developing myself about mobile applications and website, I am working on a caravan application.(https://github.com/muhammetsoil/fetchp).
-- 💬 Ask me about: Software Craftsmanship, Full-Stack Development, Web Development, JavaScript, TypeScript,Artificial Intelligence
+- 💬 Ask me about: Software Craftsmanship, Web Development, JavaScript, TypeScript,Artificial Intelligence
 
 <br />
 <br />
